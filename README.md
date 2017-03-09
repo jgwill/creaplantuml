@@ -1,13 +1,14 @@
-PlantUML
+CreaPlant
 ========
-[![Build Status](https://travis-ci.org/plantuml/plantuml.png?branch=master)](https://travis-ci.org/plantuml/plantuml)
 
-Generate UML diagram from textual description
 
-PlantUML is a component that allows to quickly write :
+Generate diagram from textual description
 
- * [Sequence diagram](http://plantuml.com/sequence-diagram),
+Inherit from PlantUML (component that allows to quickly write ):
+
+ * [Goal diagram](http://creaplant.mentalos.com/goal-diagram),
  * [Use case diagram](http://plantuml.com/use-case-diagram),
+ * [Sequence diagram](http://plantuml.com/sequence-diagram),
  * [Class diagram](http://plantuml.com/class-diagram),
  * [Activity diagram](http://plantuml.com/activity-diagram-beta),
  * [Component diagram](http://plantuml.com/component-diagram),
@@ -16,4 +17,4 @@ PlantUML is a component that allows to quickly write :
  * [Deployment diagram](http://plantuml.com/deployment-diagram),
  * [Timing diagram](http://plantuml.com/timing-diagram)
 
-To know more about PlantUML, please visit http://plantuml.com/
+To know more about CreaPlant, please visit http://creaplant.mentalos.com/
